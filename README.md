@@ -23,7 +23,7 @@ You can access the Power BI dashboard by downloading the PBIX file from this rep
 
 ## Preview
 
-**![Dashboard Preview](dashboard_preview.png)**
+**![Dashboard Preview](Screenshot (113).png)**
 
 
 
