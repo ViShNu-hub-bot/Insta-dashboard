@@ -26,7 +26,7 @@ You can access the Power BI dashboard by downloading the PBIX file from this rep
 ## Usage
 
 1. Clone this repository to your local machine.
-2. Open the `Insta_dashboard.pbix` file in Power BI Desktop.
+2. Open the `Insta.pbix` file in Power BI Desktop.
 3. Explore the dashboard and analyze Instagram influencers' data as per your requirements.
 
 ## Contact
